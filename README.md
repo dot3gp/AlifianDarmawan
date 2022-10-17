@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Alifian Darmawan
 #### I am Data Enthusiast to be Data Analyst
-![I am Data Enthusiast to be Data Analyst](<a href="https://ibb.co/9g7Wpw2"><img src="https://i.ibb.co/c3jQybt/Github-Welcome-Profile.png" alt="Github-Welcome-Profile" border="0"></a>)
+<a href="https://ibb.co/9g7Wpw2"><img src="https://i.ibb.co/c3jQybt/Github-Welcome-Profile.png" alt="Github-Welcome-Profile" border="0"></a>
 
 
 I am with a bachelor's degree in information systems and a concentration in business intelligence. After graduating, I attended bootcamp at Rakamin Academy and majored in Data Science. I am very motivated to have a career in data field. in bootcamp I learned sql, python programming and machine learning models.
